@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/zbs/\u684c\u9762/local/kde/helloworld/build/src/helloworld_autogen",
+	"CMAKE_BINARY_DIR" : "/home/zbs/\u684c\u9762/local/kde/helloworld/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/zbs/\u684c\u9762/local/kde/helloworld/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/zbs/\u684c\u9762/local/kde/helloworld/src",
+	"CMAKE_SOURCE_DIR" : "/home/zbs/\u684c\u9762/local/kde/helloworld",
+	"INCLUDE_DIR" : "/home/zbs/\u684c\u9762/local/kde/helloworld/build/src/helloworld_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/zbs/\u684c\u9762/local/kde/helloworld/src/contents/ui/main.qml"
+	],
+	"LOCK_FILE" : "/home/zbs/\u684c\u9762/local/kde/helloworld/build/src/CMakeFiles/helloworld_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/zbs/\u684c\u9762/local/kde/helloworld/build/src/CMakeFiles/helloworld_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/zbs/\u684c\u9762/local/kde/helloworld/src/resources.qrc",
+	"VERBOSITY" : 0
+}

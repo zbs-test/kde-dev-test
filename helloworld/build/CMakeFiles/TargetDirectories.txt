@@ -1,0 +1,13 @@
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/uninstall.dir
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/fetch-translations.dir
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/KF5I18n_QCH.dir
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/KF5CoreAddons_QCH.dir
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/test.dir
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/edit_cache.dir
+/home/zbs/桌面/local/kde/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/zbs/桌面/local/kde/helloworld/build/src/CMakeFiles/helloworld.dir
+/home/zbs/桌面/local/kde/helloworld/build/src/CMakeFiles/test.dir
+/home/zbs/桌面/local/kde/helloworld/build/src/CMakeFiles/edit_cache.dir
+/home/zbs/桌面/local/kde/helloworld/build/src/CMakeFiles/rebuild_cache.dir
+/home/zbs/桌面/local/kde/helloworld/build/src/CMakeFiles/helloworld_autogen_timestamp_deps.dir
+/home/zbs/桌面/local/kde/helloworld/build/src/CMakeFiles/helloworld_autogen.dir

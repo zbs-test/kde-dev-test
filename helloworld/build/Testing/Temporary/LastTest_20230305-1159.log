@@ -1,0 +1,19 @@
+Start testing: Mar 05 20:00 CST
+----------------------------------------------------------
+1/1 Testing: appstreamtest
+1/1 Test: appstreamtest
+Command: "/usr/bin/cmake" "-DAPPSTREAMCLI=/usr/bin/appstreamcli" "-DINSTALL_FILES=/home/zbs/桌面/local/kde/helloworld/build/install_manifest.txt" "-P" "/usr/share/ECM/kde-modules/appstreamtest.cmake"
+Directory: /home/zbs/桌面/local/kde/helloworld/build
+"appstreamtest" start time: Mar 05 20:00 CST
+Output:
+----------------------------------------------------------
+Not installed yet, skipping
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"appstreamtest" end time: Mar 05 20:00 CST
+"appstreamtest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 05 20:00 CST

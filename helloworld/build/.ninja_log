@@ -1,0 +1,20 @@
+# ninja log v5
+2	21	1678145610993322645	src/helloworld_autogen/timestamp	b6c5a67192cbdb6
+2	21	1678145610993322645	src/helloworld_autogen/mocs_compilation.cpp	b6c5a67192cbdb6
+2	21	1678145610993322645	/home/zbs/桌面/local/kde/helloworld/build/src/helloworld_autogen/timestamp	b6c5a67192cbdb6
+2	21	1678145610993322645	/home/zbs/桌面/local/kde/helloworld/build/src/helloworld_autogen/mocs_compilation.cpp	b6c5a67192cbdb6
+1	10	1678145675143493013	src/helloworld_autogen/EWIEGA46WW/qrc_resources.cpp	c06e06240846224f
+1	10	1678145675143493013	/home/zbs/桌面/local/kde/helloworld/build/src/helloworld_autogen/EWIEGA46WW/qrc_resources.cpp	c06e06240846224f
+25	36	1678017657412367295	src/CMakeFiles/helloworld.dir/helloworld_autogen/mocs_compilation.cpp.o	d1102effa43dda7a
+10	33	1678145675163493067	src/CMakeFiles/helloworld.dir/helloworld_autogen/EWIEGA46WW/qrc_resources.cpp.o	535e587bab328191
+22	2294	1678145613266662016	src/CMakeFiles/helloworld.dir/main.cpp.o	ea28631d6d1e5126
+33	390	1678145675520160680	bin/helloworld	2e2ad36f8d3dd042
+1	14	1678145702970233562	src/helloworld_autogen/timestamp	b6c5a67192cbdb6
+1	14	1678145702970233562	src/helloworld_autogen/mocs_compilation.cpp	b6c5a67192cbdb6
+1	14	1678145702970233562	/home/zbs/桌面/local/kde/helloworld/build/src/helloworld_autogen/timestamp	b6c5a67192cbdb6
+1	14	1678145702970233562	/home/zbs/桌面/local/kde/helloworld/build/src/helloworld_autogen/mocs_compilation.cpp	b6c5a67192cbdb6
+14	21	1678145702976900246	src/helloworld_autogen/EWIEGA46WW/qrc_resources.cpp	c06e06240846224f
+14	21	1678145702976900246	/home/zbs/桌面/local/kde/helloworld/build/src/helloworld_autogen/EWIEGA46WW/qrc_resources.cpp	c06e06240846224f
+21	39	1678145702996900300	src/CMakeFiles/helloworld.dir/helloworld_autogen/EWIEGA46WW/qrc_resources.cpp.o	535e587bab328191
+21	2145	1678145705100239217	src/CMakeFiles/helloworld.dir/main.cpp.o	ea28631d6d1e5126
+2145	2479	1678145705433573437	bin/helloworld	2e2ad36f8d3dd042
